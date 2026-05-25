@@ -111,11 +111,11 @@ Django • SQLite • HTML • CSS
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvakumar-cmd&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=selvakumar-cmd&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumar-cmd&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvakumar-cmd&theme=tokyonight" />
 </p>
 ---
 
