@@ -40,33 +40,6 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 
 # 🧑‍💻 About Me
 
-```python
-class Selvakumar:
-
-    def __init__(self):
-        self.name = "Selvakumar S"
-        self.role = "Python Developer & Data Analyst"
-        self.location = "Chennai, India"
-        self.education = "MCA Graduate"
-
-        self.skills = [
-            "Python",
-            "Django",
-            "SQL",
-            "Data Analytics",
-            "Dashboard Development"
-        ]
-
-        self.current_focus = [
-            "Backend Development",
-            "Analytics Dashboards",
-            "Full Stack Development"
-        ]
-
-    def goal(self):
-        return "Build impactful software solutions"
-```
-
 - 🎓 MCA Graduate passionate about Software Development & Data Analytics
 - 📊 Focused on analytics dashboards, backend development, and real-world projects
 - 💻 Skilled in Python, Django, SQL, Data Visualization, and Dashboard Development
@@ -162,7 +135,7 @@ Role-based complaint tracking system with complaint registration, status monitor
 
 # 🎯 Current Focus
 
-- Backend Development with Django
+- Web Development with Django
 - Analytics Dashboard Engineering
 - Database Design & Optimization
 - Full Stack Web Development
