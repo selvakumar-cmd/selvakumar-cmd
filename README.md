@@ -74,10 +74,13 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 
 ### Deployment
 
+### Deployment
+
 <p>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 ---
@@ -126,7 +129,7 @@ Role-based complaint tracking system with complaint registration, status monitor
 
 # 🎯 Current Focus
 
-- Backend Development with Django
+- Web Development with Django
 - Analytics Dashboard Engineering
 - Database Design & Optimization
 - Full Stack Web Development
