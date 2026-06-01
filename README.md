@@ -115,17 +115,14 @@ Role-based complaint tracking system with complaint registration, status monitor
 
 # 📊 GitHub Analytics
 
+## 📊 GitHub Activity
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=selvakumar-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumar-cmd&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=selvakumar-cmd&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=selvakumar-cmd&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvakumar-cmd&theme=tokyonight" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=selvakumar-cmd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
