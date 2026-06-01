@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Selvakumar%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Selvakumar%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20MCA%20Graduate&descAlignY=58&descSize=18" width="100%" />
 
 # Hi 👋 I'm Selvakumar S
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Analyst;MCA+Graduate;Building+Data-Driven+Applications;Backend+Developer+with+Django" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;MCA+Graduate;Building+Data-Driven+Applications;Backend+Developer+with+Django;Always+Learning+New+Technologies" />
 
 ### Python Developer | Data Analyst | MCA Graduate
 
@@ -13,7 +13,7 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 <br>
 
 <a href="https://selvakumar-tech.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/contact-selvakumar">
@@ -21,18 +21,51 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 </a>
 
 <a href="mailto:selvakumarworkofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/selvakumar-cmd">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=selvakumar-cmd&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=selvakumar-cmd&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749695-24681952-1399-4a4b-a7eb-1f0989f1b0f7.gif" />
+
+# 🧑‍💻 About Me
+
+```python
+class Selvakumar:
+
+    def __init__(self):
+        self.name = "Selvakumar S"
+        self.role = "Python Developer & Data Analyst"
+        self.location = "Chennai, India"
+        self.education = "MCA Graduate"
+
+        self.skills = [
+            "Python",
+            "Django",
+            "SQL",
+            "Data Analytics",
+            "Dashboard Development"
+        ]
+
+        self.current_focus = [
+            "Backend Development",
+            "Analytics Dashboards",
+            "Full Stack Development"
+        ]
+
+    def goal(self):
+        return "Build impactful software solutions"
+```
 
 - 🎓 MCA Graduate passionate about Software Development & Data Analytics
 - 📊 Focused on analytics dashboards, backend development, and real-world projects
@@ -40,29 +73,31 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 - 🌱 Currently improving Full Stack Development and scalable application building
 - 📍 Chennai, India
 
+<br clear="right"/>
+
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-### Frameworks & Databases
+### ⚙️ Frameworks & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Data Analytics
+### 📊 Data Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
@@ -72,9 +107,7 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
 </p>
 
-### Deployment
-
-### Deployment
+### ☁️ Deployment Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
@@ -129,7 +162,7 @@ Role-based complaint tracking system with complaint registration, status monitor
 
 # 🎯 Current Focus
 
-- Web Development with Django
+- Backend Development with Django
 - Analytics Dashboard Engineering
 - Database Design & Optimization
 - Full Stack Web Development
@@ -152,8 +185,8 @@ Role-based complaint tracking system with complaint registration, status monitor
 
 <div align="center">
 
-### Thanks for visiting my profile ⭐
-
-</div>
+### ⭐ Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
