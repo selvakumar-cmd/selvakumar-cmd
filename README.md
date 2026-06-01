@@ -113,20 +113,6 @@ Role-based complaint tracking system with complaint registration, status monitor
 
 ---
 
-# 📊 GitHub Analytics
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=selvakumar-cmd&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=selvakumar-cmd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 # 🎯 Current Focus
 
 - Backend Development with Django
