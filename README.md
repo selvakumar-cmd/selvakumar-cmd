@@ -1,34 +1,41 @@
-               # Hi 👋, I'm Selvakumar S
+```markdown
+<div align="center">
 
-<h3 align="center">Python Developer • Data Analyst • MCA Graduate</h3>
+# Hi 👋 I'm Selvakumar S
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;MCA+Graduate;Building+Data-Driven+Applications;Backend+Developer+%7C+Dashboard+Engineer" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
-Building data-driven applications, analytics dashboards, and backend systems using Python and modern web technologies.
+  <a href="https://selvakumar-s.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/contact-selvakumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/selvakumar-cmd">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://selvakumar-s.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/contact-selvakumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/selvakumar-cmd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=selvakumar-cmd&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 MCA Graduate passionate about Software Development & Data Analytics
-- 💻 Building scalable web applications and backend systems
-- 📊 Experienced in dashboard development, data analysis, and visualization
-- 🌱 Currently improving Full Stack Development and scalable application building
-- 📍 Chennai, India
+🎓 MCA Graduate passionate about Software Development & Data Analytics
+
+📊 Building analytics dashboards and backend applications
+
+💻 Skilled in Python, Django, SQL, Data Visualization & Dashboard Engineering
+
+🌱 Learning scalable Full Stack Development
+
+📍 Chennai, India
 
 ---
 
@@ -36,39 +43,39 @@ Building data-driven applications, analytics dashboards, and backend systems usi
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
 ### Frameworks & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
 </p>
 
-### Tools & Platforms
+### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Data Analytics Tools
+### Data Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 </p>
 
-### Deployment Platforms
+### Deployment
 
 <p>
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 </p>
 
 ---
@@ -76,70 +83,64 @@ Building data-driven applications, analytics dashboards, and backend systems usi
 ## 📌 Featured Projects
 
 ### 🍽️ Zomato Analytics Dashboard
+Interactive dashboard analyzing restaurant ratings, pricing trends, cuisines, and city-wise performance.
 
-Interactive analytics dashboard for restaurant insights, rating trends, pricing analysis, and city-wise performance visualization.
-
-**Tech Stack:** Python • Pandas • Plotly • Streamlit • SQL
-
-🔗 **Repository:**  
-https://github.com/selvakumar-cmd/zomato-analytics
-
----
+**Tech:** Python • Pandas • Plotly • Streamlit • SQL
 
 ### 🐾 VetSphere
+Veterinary service platform with appointment booking, management workflows, and responsive UI.
 
-Veterinary service management platform featuring appointment booking workflows, service management, responsive UI, and modern user experience.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-🔗 **Repository:**  
-https://github.com/selvakumar-cmd/vetsphere
-
----
+**Tech:** HTML • CSS • JavaScript
 
 ### 📋 Complaint Management System
+Role-based complaint tracking system with admin dashboard and workflow management.
 
-Role-based complaint tracking system with complaint registration, status monitoring, admin dashboard, and workflow management.
-
-**Tech Stack:** Django • SQLite • HTML • CSS
-
-🔗 **Repository:**  
-https://github.com/selvakumar-cmd/complaint-system
+**Tech:** Django • SQLite • HTML • CSS
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=selvakumar-cmd&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=selvakumar-cmd&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumar-cmd&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumar-cmd&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=selvakumar-cmd&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvakumar-cmd&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvakumar-cmd&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=selvakumar-cmd&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable web applications
-- Improving analytics dashboard design
-- Strengthening backend development skills
-- Learning Full Stack Development
-- Preparing for Software Developer and Data Analyst roles
+- Backend Development with Django
+- Analytics Dashboard Engineering
+- Full Stack Development
+- Software Developer Opportunities
+- Data Analyst Opportunities
 
 ---
 
 ## 📬 Contact
 
-📧 **Email:** selvakumarworkofficial@gmail.com
+📧 selvakumarworkofficial@gmail.com
 
-🌐 **Portfolio:** https://selvakumar-tech.netlify.app
+🌐 Portfolio: https://selvakumar-s.netlify.app
 
-💼 **LinkedIn:** https://www.linkedin.com/in/contact-selvakumar
+💼 LinkedIn: https://www.linkedin.com/in/contact-selvakumar
 
-🐙 **GitHub:** https://github.com/selvakumar-cmd
+🐙 GitHub: https://github.com/selvakumar-cmd
+```
