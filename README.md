@@ -1,9 +1,9 @@
 # Hi 👋, I'm Selvakumar S
 
-<h3 align="center">Python Developer & Data Analyst from Chennai, India</h3>
+<h3 align="center">Python Developer • Data Analyst • MCA Graduate</h3>
 
 <p align="center">
-Building analytics dashboards, backend systems, and modern web applications.
+Building data-driven applications, analytics dashboards, and backend systems using Python and modern web technologies.
 </p>
 
 <p align="center">
@@ -22,38 +22,37 @@ Building analytics dashboards, backend systems, and modern web applications.
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 MCA Graduate passionate about Software Development & Data Analytics
-- 📊 Focused on analytics dashboards, backend development, and real-world projects
-- 💻 Skilled in Python, Django, SQL, and Data Visualization
+- 💻 Building scalable web applications and backend systems
+- 📊 Experienced in dashboard development, data analysis, and visualization
 - 🌱 Currently improving Full Stack Development and scalable application building
 - 📍 Chennai, India
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages & Development
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
-## Frameworks & Databases
+### Frameworks & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
 </p>
 
-## Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-## Data Analytics Tools
+### Data Analytics Tools
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -63,79 +62,84 @@ Building analytics dashboards, backend systems, and modern web applications.
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-## Deployment Platforms
+### Deployment Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🍽️ Zomato Analytics Dashboard
+### 🍽️ Zomato Analytics Dashboard
 
 Interactive analytics dashboard for restaurant insights, rating trends, pricing analysis, and city-wise performance visualization.
 
-### Tech Used
-Python • Pandas • Plotly • Streamlit • Excel
+**Tech Stack:** Python • Pandas • Plotly • Streamlit • SQL
 
-🔗 [View Project](https://github.com/selvakumar-cmd/zomato-analytics)
-
----
-
-## 🐾 VetSphere
-
-Responsive veterinary-focused web platform designed for pet service and management solutions.
-
-### Tech Used
-HTML • CSS • JavaScript
-
-🔗 [View Project](https://github.com/selvakumar-cmd/vetsphere)
+🔗 **Repository:**  
+https://github.com/selvakumar-cmd/zomato-analytics
 
 ---
 
-## 📋 Complaint Management System
+### 🐾 VetSphere
 
-Django-based complaint tracking system with structured workflow and backend management.
+Veterinary service management platform featuring appointment booking workflows, service management, responsive UI, and modern user experience.
 
-### Tech Used
-Django • SQLite • HTML • CSS
+**Tech Stack:** HTML • CSS • JavaScript
 
-🔗 [View Project](https://github.com/selvakumar-cmd/complaint-system)
+🔗 **Repository:**  
+https://github.com/selvakumar-cmd/vetsphere
 
 ---
 
-# 📈 GitHub Stats
+### 📋 Complaint Management System
+
+Role-based complaint tracking system with complaint registration, status monitoring, admin dashboard, and workflow management.
+
+**Tech Stack:** Django • SQLite • HTML • CSS
+
+🔗 **Repository:**  
+https://github.com/selvakumar-cmd/complaint-system
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=selvakumar-cmd&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=selvakumar-cmd&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvakumar-cmd&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvakumar-cmd&theme=tokyonight" />
 </p>
+
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 - Building scalable web applications
 - Improving analytics dashboard design
 - Strengthening backend development skills
+- Learning Full Stack Development
 - Preparing for Software Developer and Data Analyst roles
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
-📧 Email: selvakumarworkofficial@gmail.com
+📧 **Email:** selvakumarworkofficial@gmail.com
 
-🌐 Portfolio: https://selvakumar-s.netlify.app/
+🌐 **Portfolio:** https://selvakumar-tech.netlify.app
 
-💼 LinkedIn: https://www.linkedin.com/in/contact-selvakumar
+💼 **LinkedIn:** https://www.linkedin.com/in/contact-selvakumar
 
-🐙 GitHub: https://github.com/selvakumar-cmd
-
----
+🐙 **GitHub:** https://github.com/selvakumar-cmd
