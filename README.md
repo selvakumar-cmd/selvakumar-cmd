@@ -123,13 +123,6 @@ Role-based complaint tracking system with complaint registration, status monitor
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=selvakumar-cmd&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
