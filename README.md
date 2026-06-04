@@ -122,7 +122,13 @@ Role-based complaint tracking system with complaint registration, status monitor
 🔗 https://github.com/selvakumar-cmd/complaint-system
 
 ---
+## 🤖 ResumeAI – AI-Powered Resume Analyzer
 
+An AI-powered resume optimization platform that helps job seekers improve ATS compatibility through resume parsing, ATS scoring, keyword analysis, skills extraction, resume enhancement, and AI-generated cover letters.
+
+**Tech Stack:**    • HTML • CSS •ats-enhanced.js
+
+🔗 https://github.com/selvakumar-cmd/Ai-Resume/tree/gh-pages
 
 ---
 
