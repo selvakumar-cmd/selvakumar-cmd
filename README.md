@@ -147,7 +147,7 @@ An AI-powered resume optimization platform that helps job seekers improve ATS co
 
 📧 Email: selvakumarworkofficial@gmail.com
 
-🌐 Portfolio: https://selvakumar-tech.netlify.app
+🌐 Portfolio: https://selvakumarweb.netlify.app
 
 💼 LinkedIn: https://www.linkedin.com/in/contact-selvakumar
 
