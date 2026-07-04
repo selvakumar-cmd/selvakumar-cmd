@@ -6,13 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;MCA+Graduate;Building+Data-Driven+Applications;Always+Learning+New+Technologies" />
 
-### Python Developer | Data Analyst | MCA Graduate
+### Java and Python Developer | Data Analyst | MCA Graduate
 
-Building data-driven applications, analytics dashboards, and scalable backend systems using Python, Django, SQL, and modern web technologies.
+Building data-driven applications, analytics dashboards, and scalable backend systems using Java, Python, Django, SQL, and modern web technologies.
 
 <br>
 
-<a href="https://selvakumar-tech.netlify.app">
+<a href="https://selvakumarweb.netlify.app">
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge"/>
 </a>
 
@@ -107,6 +107,16 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 ---
 
 # 🚀 Featured Projects
+
+## 🍽️ THALAIVAR.AI – Rajinikanth Tribute Full-Stack Web Application
+
+A full-stack web application celebrating Superstar Rajinikanth's 50+ years of cinematic legacy with an interactive filmography archive, box office analytics dashboard, AI-powered punch dialogue generator, and fan quiz, built using Java Spring Boot and modern web technologies.
+
+**Tech Stack:**  • HTML5 • CSS3 • JavaScript • Java 17 • Spring Boot 3 • REST API • Maven • Chart.js • GitHub Pages • Git & GitHub
+
+🔗 https://github.com/selvakumar-cmd/Thalaivar.ai
+
+---
 
 ## 🍽️ Zomato Analytics Dashboard
 
