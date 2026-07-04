@@ -40,10 +40,12 @@ Building data-driven applications, analytics dashboards, and scalable backend sy
 
 # 🧑‍💻 About Me
 
-- 🎓 MCA Graduate passionate about Software Development & Data Analytics
-- 📊 Focused on analytics dashboards, backend development, and real-world projects
-- 💻 Skilled in Python, Django, SQL, Data Visualization, and Dashboard Development
-- 🌱 Currently improving Full Stack Development and scalable application building
+- 🎓 MCA Graduate passionate about Software Engineering & Full Stack Development
+- 💼 Java Full Stack Developer Intern at TVK Technologies
+- ☕ Skilled in Java, Spring Boot, Angular, Python, Django, SQL & REST APIs
+- 🚀 Developed 6+ live web applications with responsive UI and backend integration
+- 📊 Experienced in Data Analytics, Dashboard Development & Data Visualization
+- 🌱 Continuously learning modern technologies and building real-world software solutions
 - 📍 Chennai, India
 
 <br clear="right"/>
@@ -147,12 +149,13 @@ An AI-powered resume optimization platform that helps job seekers improve ATS co
 
 # 🎯 Current Focus
 
-- Web Development with Django
-- Analytics Dashboard Engineering
-- Database Design & Optimization
-- Full Stack Web Development
-- Software Developer Opportunities
-- Data Analyst Opportunities
+- ☕ Java Full Stack Development
+- 🍃 Spring Boot & REST API Development
+- 🅰️ Angular & TypeScript
+- 🗄️ Database Design & SQL Optimization
+- 📊 Data Analytics & Interactive Dashboards
+- ☁️ Building Scalable & Responsive Web Applications
+- 💼 Open to Software Engineer & Java Full Stack Developer Opportunities
 
 ---
 
