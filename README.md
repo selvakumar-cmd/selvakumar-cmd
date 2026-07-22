@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Selvakumar S
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Python+Developer;Data+Analyst;MCA+Graduate;Building+Data-Driven+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java +Python+Developer;Data+Analyst;MCA+Graduate;Building+Data-Driven+Applications;Always+Learning+New+Technologies" />
 
 ### Java and Python Developer | Data Analyst | MCA Graduate
 
